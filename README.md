@@ -52,4 +52,4 @@ Json            ██████████████████░░░�
 [email]: modishrey007@gmail.com
 [website]: https://firecamp.io/
 [linkedin]: https://www.linkedin.com/in/shrey-modi-3a3170171/
-[medium]: https://medium.com/@shrey007
+[medium]: https://shrey007.medium.com/
