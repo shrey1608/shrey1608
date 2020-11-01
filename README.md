@@ -49,6 +49,12 @@ Json            ██████████████████░░░�
 - [creating a django-boilerplate code (Part 1)](https://medium.com/@shrey007/creating-a-django-boilerplate-part-2-6230760e535d?postPublishedType=initial)
 <!-- BLOG-POST-LIST:END -->
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/shrey1608/count.svg" />
+ </p>
+
+
 [email]: modishrey007@gmail.com
 [website]: https://firecamp.io/
 [linkedin]: https://www.linkedin.com/in/shrey-modi-3a3170171/
