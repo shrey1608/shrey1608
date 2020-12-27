@@ -1,4 +1,6 @@
-### Hey there, I'm Shrey  👋 
+### Hey there, I'm Shrey  👋
+[<img src="https://komarev.com/ghpvc/?username=legedith&label=Profile+Views&color=blueviolet&style=flat-square" />](https://github.com/legedith)
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
 ## I'm a Passionate software Developer
 - 🔭 Summer-20 Intern at [Firecamp][website]
@@ -49,10 +51,7 @@ Json            ██████████████████░░░�
 - [creating a django-boilerplate code (Part 1)](https://medium.com/@shrey007/creating-a-django-boilerplate-part-2-6230760e535d?postPublishedType=initial)
 <!-- BLOG-POST-LIST:END -->
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/shrey1608/count.svg" />
- </p>
+
 
 
 [email]: modishrey007@gmail.com
