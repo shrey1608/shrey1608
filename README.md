@@ -1,5 +1,5 @@
 ### Hey there, I'm Shrey  👋
-[<img src="https://komarev.com/ghpvc/?username=legedith&label=Profile+Views&color=blueviolet&style=flat-square" />](https://github.com/legedith)
+[<img src="https://komarev.com/ghpvc/?username=shrey1608&label=Profile+Views&color=blueviolet&style=flat-square" />](https://github.com/shrey1608)
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
 ## I'm a Passionate software Developer
