@@ -5,7 +5,6 @@
 ## I'm a Passionate software Developer
 - 🔭 Summer-21 Intern at ISRO
 - 📝 open source contributer and enthusiastic
-- 🥅 Currently focussing on Full stack Development
 - 👯 I’m looking to collaborate with other developers and contribute to various open source projects
 - ⚡ open to work on anything
 
