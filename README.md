@@ -2,44 +2,21 @@
 [<img src="https://komarev.com/ghpvc/?username=shrey1608&label=Profile+Views&color=blueviolet&style=flat-square" />](https://github.com/shrey1608)
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
-## I'm a Passionate software Developer
-- 🔭 Summer-21 Intern at ISRO
-- 📝 open source contributer and enthusiastic
-- 👯 I’m looking to collaborate with other developers and contribute to various open source projects
+## I'm a Passionate Software Developer
+- 🔭 Masters student at California State University Long Beach
+- 📝 open source contributor and enthusiastic
+- 👯 I’m looking to collaborate with other developers and contribute to various open-source projects
 - ⚡ open to work on anything
 
 ### Connect with me:
 
 - Mail id: modishrey007@gmail.com
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="left" alt="codeSTACKr | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-
-
-<br />
-
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=shrey1608&&show_icons=true&title_color=ffffffff&icon_color=79ff97&text_color=daf7dc&bg_color=282c34&count_private=true">
+- Linkedin: https://www.linkedin.com/in/shreymodi7/
+- Google Scholar: https://scholar.google.com/citations?user=mfmrJUYAAAAJ&hl=en
+- Personal Website: http://shreymodi.me/
 
 
----
-## 📊 Technical Skills
-<!--START_SECTION:waka-->
-```text
-Python          ████████████████████░░░░░ 
-OOP             █████████████████████░░░░ 
-Django          ███████████████████████░░
-Flask           ███████████░░░░░░░░░░░░░░
-Rest Api        █████████████████░░░░░░░░ 
-Linux           ██████████████████████░░░
-Json            ██████████████████░░░░░░░
-```
-<!--END_SECTION:waka-->
-<br />
 
----
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
